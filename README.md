@@ -18,3 +18,6 @@ Python · FastAPI · PostgreSQL · SQL · Docker · Linux · Git · n8n · Metab
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/rmacielsantos/)
+
+### Currently building
+🔧 [booking-agent](https://github.com/Renan-Maciel-Santos/booking-agent): conversational booking agent with the LLM only at the edge and a deterministic FastAPI/PostgreSQL core.
