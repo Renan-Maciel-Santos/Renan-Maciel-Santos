@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Renan 👋
 
-<!--
-**Renan-Maciel-Santos/Renan-Maciel-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Data Engineer** · Python · PostgreSQL · AI Agents
+São José dos Campos, Brazil
 
-Here are some ideas to get you started:
+I design and build backend systems, data platforms and AI-powered automations — owning the full lifecycle: architecture, database design, ETL, APIs and deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- **Data platforms:** PostgreSQL architectures integrating multiple heterogeneous sources, with Python ETL pipelines and analytical layers for decision-making.
+- **AI agents in production:** LLMs at the edge for intent parsing, with deterministic business rules and persistence in the backend.
+- **Automation:** document generation, integrations via REST APIs and workflow automation.
+
+### Stack
+Python · FastAPI · PostgreSQL · SQL · Docker · Linux · Git · n8n · Metabase
+
+### Currently building
+🔧 An open-source AI booking agent — FastAPI, OpenAI Agents SDK and PostgreSQL, with a deterministic service layer, tests and CI.
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/rmacielsantos/)
