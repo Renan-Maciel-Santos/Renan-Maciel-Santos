@@ -1,7 +1,7 @@
 # Hi, I'm Renan 👋
 
-**Backend & Data Engineer** · Python · PostgreSQL · AI Agents
-São José dos Campos, Brazil
+**Backend & Data Engineer** · Python · PostgreSQL · AI Agents<br>
+   São José dos Campos, Brazil
 
 I design and build backend systems, data platforms and AI-powered automations — owning the full lifecycle: architecture, database design, ETL, APIs and deployment.
 
