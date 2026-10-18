@@ -11,7 +11,7 @@ I design and build backend systems, data platforms and AI-powered automations �
 - **Automation & Integrations:** Document generation, REST APIs, webhooks and asynchronous workflow automation.
 
 ### Featured Projects
-- 🚀 **[b2b-lead-qualifier](https://github.com/Renan-Maciel-Santos/b2b-lead-qualifier)**: Production-grade conversational B2B lead qualification platform with strict multi-tenancy on PostgreSQL 17 + pgvector (RLS), deterministic Strategy scoring, and OpenAI Structured Outputs.
+- 🔧 **[b2b-lead-qualifier](https://github.com/Renan-Maciel-Santos/b2b-lead-qualifier)**: Conversational B2B lead qualification with multi-tenant PostgreSQL (RLS), API-key scopes, deterministic scoring and an LLM used only for structured extraction.
 - 🔧 **[booking-agent](https://github.com/Renan-Maciel-Santos/booking-agent)**: Conversational booking agent with LLM only at the edge and a deterministic FastAPI/PostgreSQL core.
 
 ### Stack
