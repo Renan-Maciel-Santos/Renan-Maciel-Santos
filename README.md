@@ -19,4 +19,7 @@ I design and build backend systems, data platforms and AI-powered automations �
 Python · FastAPI · PostgreSQL · pgvector · SQL · Docker · Linux · Git · n8n · Playwright · Metabase
 
 ### Connect
+Open to remote backend and data engineering roles, in Brazil and internationally.
+
 - [LinkedIn](https://www.linkedin.com/in/rmacielsantos/)
+- Email: renan.gregar@gmail.com
