@@ -12,6 +12,7 @@ I design and build backend systems, data platforms and AI-powered automations �
 
 ### Featured Projects
 - 🚒 **[firefighter-ops-platform](https://github.com/Renan-Maciel-Santos/firefighter-ops-platform)**: Data platform running in production for a ~500-person fire department: Python ETL from multiple sources into PostgreSQL, a role-based FastAPI dashboard, and a WhatsApp agent whose LLM never produces a number (sanitized copy with synthetic data).
+- 📄 **[bot-fichas-tecnicas](https://github.com/Renan-Maciel-Santos/bot-fichas-tecnicas)**: WhatsApp assistant running for a cleaning-products distributor: answers the sales team from manufacturers' technical and safety data sheets, always citing the source. Structured queries first, RAG (pgvector) only for open questions, and layered document-to-product linking with human review (sample copy with fictional data).
 - 🔧 **[b2b-lead-qualifier](https://github.com/Renan-Maciel-Santos/b2b-lead-qualifier)**: Conversational B2B lead qualification with multi-tenant PostgreSQL (RLS), API-key scopes, deterministic scoring and an LLM used only for structured extraction.
 - 🔧 **[booking-agent](https://github.com/Renan-Maciel-Santos/booking-agent)**: Conversational booking agent with LLM only at the edge and a deterministic FastAPI/PostgreSQL core.
 
